@@ -1,0 +1,423 @@
+
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	<title>ДВОЙНАЯ СТОЙКА-ПОДСТАВКА ДЛЯ ОБУВИ </title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=480">
+	<meta name="description" content="ДВОЙНАЯ СТОЙКА-ПОДСТАВКА ДЛЯ ОБУВИ">
+	<link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="fonts/AvenirNextCyr.css">
+	<link rel="stylesheet" href="js/owl.carousel.min.css">
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '706533003083121'); 
+fbq('track', 'PageView');
+
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=706533003083121&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(54173899, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/54173899" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</head>
+<body>
+	<!--main_wrapper-->
+	<div class="main_wrapper">
+		<!-- header 1 -->
+		<header class="offer_section offer1">
+			<div class="title_block">
+				<h1 class="main_title">UCHWYT DO SMARTFONA</h1>
+				<p class="subtitle">Z FUNKCJĄ ŁADOWANIA BEZPRZEWODOWEGO</p>
+			</div>
+			<img class="offer_image" src="images/offer__image.jpg" alt="">
+			<div class="price_block clearfix">
+				<div class="price_item old">
+					<div class="text">Cena regularna:</div>
+					<div class="value">149 zł</div>
+				</div>
+				<div class="discount_block">
+					<div class="text">Promocja</div>
+					<div class="value">-35%</div>
+				</div>
+				<div class="price_item new">
+					<div class="text">Cena dzisiaj:</div>
+					<div class="value">109 zł</div>
+				</div>
+			</div>
+			<ul class="vantage">
+				<li>Automatyczne mocowanie telefonu</li>
+				<li>Ładowanie jednym ruchem ręki</li>
+				<li>Obsługuje technologię Quick Charge</li>
+			</ul>
+			<div class="timer_block clearfix">
+				<p>Do końca promocji pozostało:</p>
+				<div class="timer clearfix">
+					<div class="timer_item">
+						<div class="count hours"></div>
+						<div class="text">godzin</div>
+					</div>
+					<div class="timer_item">
+						<div class="count minutes"></div>
+						<div class="text">minut</div>
+					</div>
+					<div class="timer_item">
+						<div class="count seconds"></div>
+						<div class="text">sekund</div>
+					</div>
+				</div>
+			</div>
+			<a href="#order_form" class="button">Zamów</a>
+			<div class="products_count">Pozostałe uchwyty w cenie promocyjnej – <b>11</b> sztuk.</div>
+		<img class="gift_image" src="images/offer__gift_image.png" alt="ZESTAW OONIES">
+</header>
+		<!-- /header 1 -->
+		<section class="benefits_block" style="background: #fff;padding: 0;margin: 0;">
+			<h2 class="title2"><span style="color: #149cc7;">SŁUCHAWKI </span> JAKO PREZENT!</h2>
+			<img class="" src="images/gift.jpg" alt="ZESTAW OONIES">	
+			<div class="price_block clearfix">
+				<div class="price_item old">
+					<div class="text">Cena regularna:</div>
+					<div class="value">49 zł</div>
+				</div>
+				<div class="discount_block">
+					<!--<div class="text">Promocja</div>-->
+					<div class="value">Promocja</div>
+				</div>
+				<div class="price_item new">
+					<div class="text">Cena dzisiaj:</div>
+					<div class="value">GRATIS</div>
+				</div>
+			</div>
+		</section>
+		<!--benefits_block-->
+		<section class="benefits_block">
+			<h2 class="title">Niezbędna rzecz w salonie twojego samochodu</h2>
+			<!-- benefits 3 -->
+			<div class="benefits_list3">
+				<div class="benefit_item">
+					<img src="images/benefits3__benefit1_image.jpg" alt="">
+					<div class="text_block">
+						<h4>Niezawodne mocowanie</h4>
+						<p>Dzięki okrągłemu zawiasowi można obracać uchwyt w dowolnym
+  wygodnym kierunku, aby bezpiecznie zamocować smartfon w odpowiednim miejscu</p>
+					</div>
+				</div>
+				<div class="benefit_item">
+					<img src="images/benefits3__benefit2_image.gif" alt="">
+					<div class="text_block">
+						<h4>Najlepsze akcesorium 2 w 1</h4>
+						<p>Uchwyt zapewnia najbardziej niezawodne podwójne mocowanie smartfona i jego automatycznie ładowanie
+</p>
+					</div>
+				</div>
+				<div class="benefit_item">
+					<img src="images/benefits3__benefit3_image.jpg" alt="">
+					<div class="text_block">
+						<h4>Ładowarka Bezprzewodowa QC</h4>
+						<p>Nie ma potrzeby ciągłego korzystania z kabla, co pozwoli wydłużyć żywotność gniazda ładowania w smartfonie
+</p>
+					</div>
+				</div>
+			</div>
+			<!-- /benefits 3 -->
+		</section>
+		<!--/benefits_block-->
+
+		<!-- description -->
+		<section class="description_section">
+			<h2 class="title"><span>Nowość na rynku</span> akcesoriów samochodowych!</h2>
+			<div class="text_block">
+				<p>
+<span class="my_span">.</span> Estetyczny design<br>
+<span class="my_span">.</span> Mocowanie telefonu bez ryzyka zarysowania.<br>
+<span class="my_span">.</span> Łatwość obsługi dzięki sterowaniu dotykiem
+<br><br>
+Już po pół godzinie nie wyobrazisz sobie życia bez tego urządzenia!</p>
+			</div>
+			<div class="video_block">
+				<div class="youtube" id="8h9yp4I6uEY"></div>
+			</div>
+			<div class="text_block">
+				<p>Zgrabny uchwyt bez dodatkowych przewodów jest idealny dla tych, którzy uwielbiają porządek w samochodzie, a mocowanie pasuje do większości deflektorów.</p>
+			</div>
+		</section>
+		<!-- /description -->
+
+		<!-- gallery -->
+
+		<div class="gallery_section">
+			<img src="images/image1.jpg" alt="">
+			<img src="images/image2.jpg" alt="">
+		</div>
+
+		<!-- /gallery -->
+
+		<!-- benefits -->
+		<section class="dark_theme">
+			<h2 class="title"><span>Właściwości</span> uchwytu samochodowego</h2>
+			<!-- benefits 1 -->
+			<div class="benefits_list1">
+				<div class="benefit_item">
+					<img src="images/benefits1__benefit1_image.jpg" alt="">
+					<h4>Uniwersalność</h4>
+					<p>Zapięcie jest przeznaczone dla smartfonów o przekątnej ekranu od 4 ”do 6,5”</p>
+				</div>
+				<div class="benefit_item">
+					<img src="images/benefits1__benefit2_image.jpg" alt="">
+					<h4>Niezawodność</h4>
+					<p>Smartfon nie wypadnie, nawet podczas naglego hamowania</p>
+				</div>
+				<div class="benefit_item">
+					<img src="images/benefits1__benefit3_image.jpg" alt="">
+					<h4>Mocowanie magnetyczne</h4>
+					<p>Zamontuj smartfon w uchwycie jednym ruchem ręki</p>
+				</div>
+				<div class="benefit_item">
+					<img src="images/benefits1__benefit4_image.jpg" alt="">
+					<h4>Kąt widzenia</h4>
+					<p>Uchwyt samochodowy może łatwo obracać telefon w dowolnym kierunku.</p>
+				</div>
+			</div>
+			<!-- /benefits 1 -->
+			<a href="#order_form" class="button">Zamów</a>
+			<div class="products_count">Pozostałe uchwyty w cenie promocyjnej – <b>11</b> sztuk.</div>
+		</section>
+		<!-- /benefits -->
+
+		<!-- reviews 2 -->
+		<section class="reviews2_section">
+			<h2 class="title">Opinie klientów</h2>
+			<div class="reviews_stats_block">
+				<p><b>98%</b> klientów poleca ten produkt</p>
+				<div class="line"></div>
+			</div>
+			<div class="reviews_list1 owl-carousel">
+				<div class="review_item">
+					<div class="author_block clearfix">
+						<img class="avatar" src="images/reviews__review1_avatar.jpg" alt="">
+						<div class="author_info_block">
+							<div class="author_info">Radosław, Poznań</div>
+							<div class="text">Polecam ten produkt innym.</div>
+						</div>
+					</div>
+					<div class="text_block">
+						<p>Ciągle zapominam załadować telefon, więc postanowiłem kupić uchwyt samochodowy. Zainteresowało mnie to, że w tym akcesorium łączą się funkcja ładowania i uchwytu. Łatwy w użyciu. Telefon jest zamocowany pożądanym kątem, bardzo wygodnie jest dostosować go dla siebie. Szczególnie niezbędna rzecz, jeżeli korzystasz z telefonu jako nawigator.</p>
+						<img class="photo" src="images/reviews__review1_photo.jpg" alt="">
+					</div>
+				</div>
+				<div class="review_item">
+					<div class="author_block clearfix">
+						<img class="avatar" src="images/reviews__review2_avatar.jpg" alt="">
+						<div class="author_info_block">
+							<div class="author_info">Maciej, Warszawa</div>
+							<div class="text">Polecam ten produkt innym.</div>
+						</div>
+					</div>
+					<div class="text_block">
+						<p>Spędzam dużo czasu w podróży i oczywiście potrzebuję ładowarki. Przewody są bardzo irytujące, dlatego specjalnie szukałem bezprzewej ładowarki. Bezpiecznie mocowanie, potężny magnes, telefon na wybojach nie odlatuje, zawsze w tej samej pozycji, naprawdę jest  SUPER! Kupiłem jeszcze drugi jako prezent dla mojego ojca, niech też się cieszy))
+</p>
+						<img class="photo" src="images/reviews__review2_photo.jpg" alt="">
+					</div>
+				</div>
+				<div class="review_item">
+					<div class="author_block clearfix">
+						<img class="avatar" src="images/reviews__review3_avatar.jpg" alt="">
+						<div class="author_info_block">
+							<div class="author_info">Małgorzata, Lublin</div>
+							<div class="text">Polecam ten produkt innym.</div>
+						</div>
+					</div>
+					<div class="text_block">
+						<p>Kupiłam mężowi w prezencie uchwyt do samochódu. Jakość jest doskonała, wygląda  super, spełnia wszystkie swoje funkcje na 5+. Okazało się że to jest  niezbędna rzecz w samochodzie! Mocuje się bezpiecznie, nie wygląda na to że może odlecieć, można się w cale nie martwić) Bardzo dziekuję  za szybką dostawę - miło jest z wami wspólpracować)))+
+					</p>
+						<img class="photo" src="images/reviews__review3_photo.jpg" alt="">
+					</div>
+				</div>
+				<div class="review_item">
+					<div class="author_block clearfix">
+						<img class="avatar" src="images/reviews__review4_avatar.jpg" alt="">
+						<div class="author_info_block">
+							<div class="author_info">Oliwia, Kraków</div>
+							<div class="text">Polecam ten produkt innym.</div>
+						</div>
+					</div>
+					<div class="text_block">
+						<p>Idealna rzecz) Kupiłem dla siebie ponieważ często jestem za kierownicą. Bardzo wygodne! Dziękuję za szybką dostawę
+					</p>
+						<img class="photo" src="images/reviews__review4_photo.jpg" alt="">
+					</div>
+				</div>
+								<div class="review_item">
+					<div class="author_block clearfix">
+						<img class="avatar" src="images/reviews__review5_avatar.jpg" alt="">
+						<div class="author_info_block">
+							<div class="author_info">Czesław, Wrocław</div>
+							<div class="text">Polecam ten produkt innym.</div>
+						</div>
+					</div>
+					<div class="text_block">
+						<p>Kupiłem na prezent dla przyjaciela, a po jego słowach wdzięczności postanowiłem kupić dla siebie, jestem bardzo zadowolony.Polecam wszystkim, kto jeździ  autem taką ładowarkę.
+					</p>
+						<img class="photo" src="images/reviews__review5_photo.jpg" alt="">
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- /reviews 2 -->
+
+		<!-- order info 1 dark -->
+		<section class="order_info1_section dark_theme">
+			<h2 class="title">Dostawa i płatność</h2>
+			<div class="order_info_list1">
+				<div class="info_item clearfix">
+					<div class="icon_block">
+						<img src="images/order_info1_dark__delivery_icon.png" alt="">
+					</div>
+					<div class="text_block">
+						<h4>DOSTAWA</h4>
+						<p>Pocztą w ciągu 1-3 dni roboczych. Koszt dostawy od 14 zł</p>
+						</div>
+					</div>
+					<div class="info_item clearfix">
+						<div class="icon_block">
+							<img src="images/order_info1_dark__payment_icon.png" alt="">
+						</div>
+						<div class="text_block">
+							<h4>PŁATNOŚĆ</h4>
+							<p>Płatność za zamówienia jest realizowana wylącznie po otrzymaniu towaru w punkcie odbioru poczty  
+							</p>
+						</div>
+					</div>
+					<div class="info_item clearfix">
+						<div class="icon_block">
+							<img src="images/order_info1_dark__guarantee_icon.png" alt="">
+						</div>
+						<div class="text_block">
+							<h4>GWARANCJE</h4>
+							<p>Zawsze sprawdzamy towar przed wysyłką i gwarantujemy 100% jakości. Jeżeli towar nie jest odpowiedni, możesz go zwrócić.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- /order info 1 dark -->
+
+			<!-- order 1 -->
+			<section class="offer_section offer1">
+				<div class="title_block">
+					<h3 class="main_title">Uchwyt do smartfona</h3>
+					<p class="subtitle">Z BEZPRZEWODOWĄ FUNKCJĄ ŁADOWANIA</p>
+				</div>
+				<img class="offer_image" src="images/offer__image.jpg" alt="">
+			<div class="price_block clearfix">
+				<div class="price_item old">
+					<div class="text">Cena regularna:</div>
+					<div class="value">149 zł</div>
+				</div>
+				<div class="discount_block">
+					<div class="text">Promocja</div>
+					<div class="value">-35%</div>
+				</div>
+				<div class="price_item new">
+					<div class="text">Cena dzisiaj:</div>
+					<div class="value">109 zł</div>
+				</div>
+			</div>
+			<div class="timer_block clearfix">
+				<p>Do końca promocji pozostało:</p>
+				<div class="timer clearfix">
+					<div class="timer_item">
+						<div class="count hours"></div>
+						<div class="text">godzin</div>
+					</div>
+					<div class="timer_item">
+						<div class="count minutes"></div>
+						<div class="text">minut</div>
+					</div>
+					<div class="timer_item">
+						<div class="count seconds"></div>
+						<div class="text">sekund</div>
+					</div>
+				</div>
+			</div>
+				<form id="order_form" class="order_form" action="thanks.php" method="post">
+					<input class="field" type="text" name="name" placeholder="Wpisz swoje imię i nazwisko" required>
+					<input class="field mask" type="tel" name="phone" placeholder="Wpisz swój numer telefonu" required>
+					<input class="field" type="text" name="address" placeholder="Kod pocztowy oraz adres" required>
+					<button class="button">Zamów</button>
+				</form>
+			<div class="products_count">Pozostałe uchwyty w cenie promocyjnej – <b>11</b> sztuk.</div>
+		</section>
+			<!-- /order 1 -->
+
+			<!-- footer -->
+			<footer class="footer_section">
+<a href="tel:732084011">Zadzwoń Pn-Nd: 732084011</a><br><br>
+<a target="_blank" href="politics.html">Polityka prywatności</a>
+<br>
+			</footer>
+			<!-- /footer -->
+		</div>
+		<!--/main_wrapper-->
+
+		<!-- scripts -->
+		
+
+
+<!--
+<div class="coockie-window">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8"><p>Strona Bshop korzysta z ciasteczek aby świadczyć usługi na najwyższym poziomie. Dalsze korzystanie ze strony oznacza, że zgadasz się na ich użycie.</p></div>
+      <div class="col-sm-4"><div class="accept-btn">Zgadzam się</div></div>
+    </div>
+  </div>
+</div>
+-->
+
+<script src="js/jquery.js" type="text/javascript"></script>
+<script src="js/previewYouTube.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/scripts.js"></script>
+
+<script>
+$(document).ready(function (){
+	$('.accept-btn').click(function(){
+		$('.coockie-window').addClass('hide');
+	});
+  });
+</script>
+
+	</body>
+	</html>
